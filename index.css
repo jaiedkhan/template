@@ -1,0 +1,64 @@
+body,h1,h2,h3,h4,h5,h6,p,span,div{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo img{
+    width: 48%;
+}
+.menu{
+   margin-left: 18rem !important;
+}
+.silder-content{}
+.jk a{ 
+    background: rgb(97, 113, 255);
+}
+.silder-content{}
+.parfom{
+    background-color: #8490ff;
+}
+p{
+    font-size: 14px !important;
+    font-weight: 600;
+}
+.fb{
+    display: inline-block;
+    height: 110px;
+    width: 110px;
+    margin-top: 10px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 50%;
+    line-height: 110px;
+}
+.prizing-table a{
+    border: 3px solid #8490ff;
+    color: #8490ff;
+    font-size: 19px;
+    padding: 7px 14px;
+}
+.prizing-table a:hover{
+    background-color: #8490ff;
+    color: #fff;
+}
+.prizing-table{
+    box-shadow: 0px 9px 21px 3px #98a1f554;
+
+}
+.card {
+    box-shadow: 0px 9px 21px 3px #767ec654;
+}
+.imge{
+    position: relative;
+}
+.imge img{
+    width: 34.2% ;
+    position: absolute;
+    left: 13px ;
+    top: -44px;
+}
+.form{
+    box-shadow: 0px 9px 21px 3px #767ec654;
+}
+.footer {
+    padding: 19px;
+    background: #04091e;
+}
